@@ -1,5 +1,5 @@
 div {
-    background-color: goldenrod;
+   
     width: 50%;
     margin-left: 25%;
 }
@@ -19,4 +19,7 @@ img {
     border: 5px solid gold;
     width: 100%;
     margin: 0;
+}
+* {
+     background-color: goldenrod;
 }
