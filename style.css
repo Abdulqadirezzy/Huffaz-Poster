@@ -1,0 +1,22 @@
+div {
+    background-color: goldenrod;
+    width: 50%;
+    margin-left: 25%;
+}
+h1 {
+    font-family: "Amiri" , sans-serif; 
+    margin: 0;  
+}
+p {
+    font-family: "Amiri" , sans-serif;
+    margin: 0;
+}
+#class {
+    color: ghostwhite;
+    text-align: center;
+}
+img {
+    border: 5px solid gold;
+    width: 100%;
+    margin: 0;
+}
